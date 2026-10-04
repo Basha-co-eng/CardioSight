@@ -1,7 +1,7 @@
 # 🫀 CardioSight | Uncertainty-Aware Explainable Federated ECG Platform
 
-[![Public Web App](https://img.shields.io/badge/Web_App-Live_Preview-38bdf8?style=for-the-badge&logo=google-chrome)](https://md-sami-7.github.io/CardioSight/)
-[![PWA Ready](https://img.shields.io/badge/PWA-iOS_%26_Android_Ready-10b981?style=for-the-badge&logo=pwa)](https://md-sami-7.github.io/CardioSight/)
+[![Public Web App](https://img.shields.io/badge/Web_App-Live_Preview-38bdf8?style=for-the-badge&logo=google-chrome)](https://github.com/Basha-co-eng/CardioSight/)
+[![PWA Ready](https://img.shields.io/badge/PWA-iOS_%26_Android_Ready-10b981?style=for-the-badge&logo=pwa)](https://github.com/Basha-co-eng/CardioSight/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 **CardioSight** is a clinical decision-support web and mobile application powered by **Federated Learning**, **Explainable Artificial Intelligence (Grad-CAM & SHAP)**, and **Monte Carlo Dropout Uncertainty Quantification**.
@@ -34,7 +34,7 @@
 
 ## 🚀 Live Demo & Installation
 
-- **Live Web App:** [https://md-sami-7.github.io/CardioSight/](https://md-sami-7.github.io/CardioSight/)
+- **Live Web App:** [https://github.com/Basha-co-eng/CardioSight/](https://github.com/Basha-co-eng/CardioSight/)
 - **Mobile Installation (PWA):** Open in Safari (iOS) or Chrome (Android) and tap **"Add to Home Screen"** to install CardioSight as a native mobile app!
 
 ---
