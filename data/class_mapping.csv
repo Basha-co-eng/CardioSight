@@ -1,0 +1,13 @@
+Class_Index,Acronym,SNOMED_CT_Code,Condition_Name
+0,AF,164889003,Atrial Fibrillation
+1,IAVB,270492004,First-degree Atrioventricular Block
+2,LAD,39732003,Left Axis Deviation
+3,LBBB,164909002,Left Bundle Branch Block
+4,NSIVCB,426627000,Nonspecific Intraventricular Conduction Disorder
+5,NSR,426783006,Normal Sinus Rhythm
+6,PAC,284470004,Premature Atrial Contraction
+7,QAb,164917005,Abnormal Q Wave
+8,RBBB,59118001,Right Bundle Branch Block
+9,SB,426177001,Sinus Bradycardia
+10,STach,427084000,Sinus Tachycardia
+11,TAb,164934002,T Wave Abnormal

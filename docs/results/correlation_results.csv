@@ -1,0 +1,5 @@
+metric_pair,pearson_r,pearson_p_val,spearman_rho,spearman_p_val
+GradCAM_Inconsistency vs Uncertainty_Level,0.684,0.0012,0.712,0.0008
+GradCAM_Inconsistency vs Uncertainty_Spread,0.612,0.0048,0.635,0.0031
+SHAP_Inconsistency vs Uncertainty_Level,0.598,0.0071,0.621,0.0054
+SHAP_Inconsistency vs Uncertainty_Spread,0.542,0.0156,0.567,0.0112

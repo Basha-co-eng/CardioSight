@@ -1,0 +1,6 @@
+Client_ID,Hospital_Source,Location,Total_Recordings,Sampling_Rate_Hz,Leads
+Client_1,chapman_shaoxing,"Shaoxing, China",10247,500,12
+Client_2,cpsc_2018,China (CPSC),6877,500,12
+Client_3,georgia,"Georgia, USA",10344,500,12
+Client_4,ningbo,"Ningbo, China",34905,500,12
+Client_5,ptb-xl,Germany (PTB-XL),21837,500,12
